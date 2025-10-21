@@ -25,15 +25,25 @@ Fitur Utama
 - Desain yang kompatibel dengan berbagai perangkat
 
 Tampilan website:
+
 ![preview](item/preview1.png)
+
 ![preview](item/preview2.png)
+
 ![preview](item/preview3.png)
+
 ![preview](item/preview4.png)
+
 ![preview](item/preview5.png)
+
 ![preview](item/preview6.png)
+
 ![preview](item/preview7.png)
+
 ![preview](item/preview8.png)
+
 ![preview](item/preview9.png)
+
 ![preview](item/preview10.png)
 
 
