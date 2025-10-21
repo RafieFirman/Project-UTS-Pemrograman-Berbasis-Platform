@@ -3,10 +3,6 @@ Muhammad Rafie Firman Rusidy
 TI 2024B
 24051204065
 
-Proyek ini merupakan tugas mata kuliah **Web Programming** Universitas Negeri Surabaya.
-Website ini menampilkan informasi pribadi, riwayat pendidikan, pengalaman organisasi,
-serta proyek-proyek yang telah saya buat.
-
 Website portofolio yang saya buat ini merupakan hasil dari pekerjaan yang ditujukan untuk memenuhi
 Penugasan Ujian Tengah Semester mata kuliah Pemrograman Berbasis Platform, yang diampu oleh
 Bapak Rifqi Abdillah, S.Tr.T., M.Kom.
@@ -29,7 +25,17 @@ Fitur Utama
 - Desain yang kompatibel dengan berbagai perangkat
 
 Tampilan website:
-![preview](item/preview.png)
+![preview](item/preview1.png)
+![preview](item/preview2.png)
+![preview](item/preview3.png)
+![preview](item/preview4.png)
+![preview](item/preview5.png)
+![preview](item/preview6.png)
+![preview](item/preview7.png)
+![preview](item/preview8.png)
+![preview](item/preview9.png)
+![preview](item/preview10.png)
+
 
 🎥 [Tonton di YouTube](https://youtube.com/...) _(link video setelah upload)_
 
