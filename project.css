@@ -1,0 +1,24 @@
+.project-card {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+hr {
+  border-color: #738D94;
+}
+
+video {
+  width: 50%;       
+  height: 30%;  
+  max-width: 600px;   
+  display: block;
+  margin: 0 auto 1.5rem auto; 
+  border: 3px solid #738D94;
+  border-radius: 16px;
+}
+

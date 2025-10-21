@@ -1,0 +1,68 @@
+nav {
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.edu-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.edu-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.edu-card img {
+  border-radius: 0.75rem;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.edu-card h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #374151; /* abu gelap */
+}
+
+.edu-card p {
+  font-size: 0.85rem;
+  color: #4b5563;
+}
+
+section .flex {
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .edu-card {
+    width: 80%;
+    margin-bottom: 1rem;
+  }
+}
+
+.tool-card {
+  background-color: #E6EFEE;
+  color: #2e2e2e;
+  border-radius: 16px;
+  padding: 1rem;
+  text-align: center;
+  font-weight: 600;
+  width: 140px; /* Biar seragam & center */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tool-card img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  margin: 0 auto 10px;
+}
+
+.tool-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+
+hr {
+  border-color: #738D94;
+}
