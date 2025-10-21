@@ -19,7 +19,7 @@ nav {
 .edu-card h3 {
   font-size: 1rem;
   font-weight: 600;
-  color: #374151; /* abu gelap */
+  color: #374151;
 }
 
 .edu-card p {
@@ -46,7 +46,7 @@ section .flex {
   padding: 1rem;
   text-align: center;
   font-weight: 600;
-  width: 140px; /* Biar seragam & center */
+  width: 140px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -66,3 +66,4 @@ section .flex {
 hr {
   border-color: #738D94;
 }
+
