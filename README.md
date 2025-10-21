@@ -24,7 +24,8 @@ Fitur Utama
 - Tampilan proyek dengan deskripsi
 - Desain yang kompatibel dengan berbagai perangkat
 
-[Video Presentasi](https://youtu.be/9NXlGtXbJGY)
+Video Presentasi :
+(https://youtu.be/9NXlGtXbJGY)
 
 Tampilan website:
 
